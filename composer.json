@@ -1,12 +1,12 @@
 {
-    "name": "hartmann/contao-hello-world-bundle",
+    "name": "shhmhc/contao-hello-world-bundle",
     "description": "Skeleton for custom Contao 4 bundles",
     "license": "LGPL-3.0-or-later",
     "type": "contao-bundle",
     "authors": [
         {
-            "name": "Leo Feyer",
-            "homepage": "https://github.com/leofeyer"
+            "name": "Stefan Hofmann",
+            "homepage": "https://github.com/shhmhc"
         },
         {
             "name": "Contao Community",
