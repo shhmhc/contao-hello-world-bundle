@@ -20,8 +20,8 @@
     },
     "require": {
         "php": "^7.4 || ^8.0",
-        "contao/core-bundle": "^4.13",
-        "symfony/config": "^5.4",
+        "contao/core-bundle": "^4.11",
+        "symfony/config": "^5.4.0",
         "symfony/dependency-injection": "^5.4",
         "symfony/http-kernel": "^5.4"
     },
